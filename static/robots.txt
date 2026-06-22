@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://octogenarianentrepreneur.com/sitemap.xml
