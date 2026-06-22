@@ -1,0 +1,8 @@
+baseURL = "https://octogenarianentrepreneur.com/"
+languageCode = "en-us"
+title = "Octogenarian Entrepreneur"
+
+[params]
+  email = "info@octogenarianentrepreneur.com"
+  wwwURL = "https://wearwisdomwell.com/"
+  dbtURL = "https://diybondedtitles.com/"
